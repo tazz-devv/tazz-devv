@@ -1,0 +1,34 @@
+name: Update README with Latest Message
+
+on:
+  issues:
+    types: [opened, edited]
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Get the latest issue message
+        id: get_message
+        run: |
+          ISSUE_BODY=$(curl -s -H "Authorization: token ${{secrets.GITHUB_TOKEN}}" \
+            "https://api.github.com/repos/${{github.repository}}/issues/${{github.event.issue.number}}" | \
+            jq -r '.body')
+          echo "ISSUE_BODY=$ISSUE_BODY" >> $GITHUB_ENV
+
+      - name: Update README
+        run: |
+          echo "Adding message to README.md..."
+          echo "Latest Message from Supporter:" >> README.md
+          echo "### $ISSUE_BODY" >> README.md
+
+      - name: Commit and push changes
+        run: |
+          git config --local user.name "github-actions"
+          git config --local user.email "github-actions@github.com"
+          git add README.md
+          git commit -m "Update README with new supporter message"
+          git push
