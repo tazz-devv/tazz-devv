@@ -76,18 +76,6 @@
 
 ---
 
-<h2 align="center">💬 Recent Messages</h2>
-
-<p align="center">
-  <b>1. Message 1...</b><br>
-  <b>2. Message 2...</b><br>
-  <b>3. Message 3...</b><br>
-  <b>4. Message 4...</b><br>
-  <b>5. Message 5...</b><br>
-</p>
-
----
-
 <p align="center">
 <b>Made with ❤ by purrly :D<b>
 </p>
