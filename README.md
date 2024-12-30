@@ -11,7 +11,7 @@
 
 ---
 
-<h2 align="center">🛠 Skills & Tools</h2>
+<h2 align="center">💻 Tech Stack</h2>
 
 <div align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
@@ -51,7 +51,7 @@
 
 ---
 
-<h3 align="center">🖥️ Working on</h3>
+<h3 align="center">🛠 Working on</h3>
 
 <p align="center">
 <b>Currently working on menaceGPT - An unrestricted conversational AI exploring open dialogue and unfiltered interaction, designed for research and experimentation within ethical and legal bounds.</b>
