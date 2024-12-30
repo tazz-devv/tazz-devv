@@ -72,8 +72,9 @@
 <h3 align="center">🖥️ Working on</h3>
 
 <p align="center">
-<b>Currently working on Ganglish Translator—a revolutionary app that deciphers gang slang and wild abbreviations into proper English. (this will take a while because im gonna use AI to fetch responses)<b>
+<b>Currently working on 3k0 - An unrestricted conversational AI exploring open dialogue and unfiltered interaction, designed for research and experimentation within ethical and legal bounds.</b>
 </p>
+
 
 ---
 
