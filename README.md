@@ -35,9 +35,6 @@
   <a href="https://replit.com/" target="_blank">
     <img src="https://img.shields.io/badge/Replit-%232D5B9E.svg?style=for-the-badge&logo=replit&logoColor=white" alt="Replit">
   </a>
-  <a href="https://vercel.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
-  </a>
 </div>
 
 
