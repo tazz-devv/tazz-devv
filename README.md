@@ -51,8 +51,9 @@
 <h3 align="center">🛠 Working on</h3>
 
 <p align="center">
-<b>Currently working on menaceGPT - An unrestricted conversational AI exploring open dialogue and unfiltered interaction, designed for research and experimentation within ethical and legal bounds.</b>
+<b>Working on menaceGPT - An unrestricted conversational AI delving into open dialogue and unfiltered interaction. Designed for research and experimentation within ethical and legal boundaries. This ambitious project aims to create my own AI, and I plan to provide a free API for public use in the future.</b>
 </p>
+
 
 ---
 
