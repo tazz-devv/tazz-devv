@@ -47,13 +47,6 @@
 
 ---
 
-<h3 align="center">📚 Will Learn</h3>
-
-<p align="center">
-<b>Might learn C++ (no idea what to use it for though). Also interested in Java, React.js, and Rust (not the game lmao).</b>
-</p>
-
----
 
 <h3 align="center">🛠 Working on</h3>
 
