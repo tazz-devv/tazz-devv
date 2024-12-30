@@ -1,21 +1,12 @@
-<h1 align="center"><b>Hi there, I'm Sage!👋</b></h1>
+<h1 align="center"><b>Hi there, I'm Purrly!👋</b></h1>
+
 <p align="center">
-  <img src="Assets/sxgei.png/" alt="Profile Picture" width="155" height="150">
-</p>
-<p align="center">
-<b> Hello! I'm Sage, a 13-year-old web developer and student. I started coding when I was around 10 (not totally sure tbh), and I've been grinding ever since (lol). In my free time, I love gaming, web development, and breaking stuff on my Chromebook!<b>
+<b>Hello! I'm Purrly, a web developer and cat lover! I have 3 cats, including my baby kitten (my favorite :D). I started coding when I was around 10, and I've been building ever since. In my free time, I love gaming, web development, and, of course, spending time with my cats!<b>
 </p>
 <p align="center">
   <b>- Currently building awesome stuff for $0 (hire me though👀)</b>
 </p>
 
-
-<div align="center">
-  <img src="Assets/smartfoloo.gif/" alt="Animated Cat" width="200" />
-</div>
-<p align="center">
-  <b>I LOVE YOU SMARTFOLOO😜</b>
-</p>
 
 
 ---
@@ -32,9 +23,6 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
   </a>
-  <a href="https://www.typescriptlang.org/" target="_blank">
-    <img src="https://img.shields.io/badge/TypeScript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-  </a>
   <a href="https://www.python.org/" target="_blank">
     <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   </a>
@@ -44,19 +32,14 @@
   <a href="https://nodejs.org/" target="_blank">
     <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
   </a>
-  <a href="https://getbootstrap.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
-  </a>
-  <a href="https://flask.palletsprojects.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
-  </a>
-  <a href="https://www.heroku.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku">
+  <a href="https://replit.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Replit-%232D5B9E.svg?style=for-the-badge&logo=replit&logoColor=white" alt="Replit">
   </a>
   <a href="https://vercel.com/" target="_blank">
     <img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
   </a>
 </div>
+
 
 ---
 
@@ -66,7 +49,6 @@
 <b>Might learn C++ (no idea what to use it for though). Also interested in Java, React.js, and Rust (not the game lmao).</b>
 </p>
 
-
 ---
 
 <h3 align="center">🖥️ Working on</h3>
@@ -74,7 +56,6 @@
 <p align="center">
 <b>Currently working on 3k0 - An unrestricted conversational AI exploring open dialogue and unfiltered interaction, designed for research and experimentation within ethical and legal bounds.</b>
 </p>
-
 
 ---
 
@@ -84,7 +65,7 @@
   <a href="https://discord.com/users/Sxgei" target="_blank">
     <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
   </a>
-  <a href="https://github.com/Sxgex" target="_blank">
+  <a href="https://github.com/purrlyy" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
 </div>
