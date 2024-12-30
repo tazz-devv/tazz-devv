@@ -80,19 +80,10 @@
 ---
 
 <p align="center">
-<b>THANK YOU FOR LISTENING TO MY YAP FEST❤🥰<b>
+<b>Made with ❤ by purrly :D<b>
 </p>
 
-<p align="center">
-<b>now check out the projects below :D</b>
-</p>
-<div align="center">
-  <pre style="font-size: 24px;">
-    |
-    |
-    v
-  </pre>
-</div>
+
 
 
 
