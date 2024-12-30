@@ -1,7 +1,7 @@
 <h1 align="center"><b>Hi there, I'm Purrly!👋</b></h1>
 
 <p align="center">
-<b>Hello! I'm Purrly, a  13 yo web developer and cat lover! I have 3 cats, including my baby kitten (my favorite :D). I started coding when I was around 10, and I've been building ever since. In my free time, I love gaming, web development, and, of course, spending time with my cats!<b>
+<b>Hello! I'm Purrly, a  13 yo web developer and cat lover! I have 3 cats, including my baby kitten (my favorite :D). got hooked on coding when I was around 10, and I've been building ever since. In my free time, I love gaming, web development, and, of course, spending time with my cats!<b>
 </p>
 <p align="center">
   <b>- Currently building awesome stuff for $0 (hire me though👀)</b>
