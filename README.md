@@ -1,4 +1,8 @@
-<h1 align="center"><b>Hi there, I'm Purrly!👋😻</b></h1>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Purrly+:D....;Nice+to+meet+you!&center=true&size=30&color=FF69B4&font=bold">
+  </a>
+</p>
 
 <p align="center">
 <b>Hey there! I'm Purrly, a 13-year-old web developer and avid cat lover. I have three cats, including my adorable baby kitten (who's my favorite, of course!). I first got hooked on coding at around 11 and haven’t stopped building since. In my free time, you'll find me gaming, coding, or OBVIOUSLY hanging out with my cats :D<b>
