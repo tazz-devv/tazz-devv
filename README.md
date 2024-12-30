@@ -1,4 +1,4 @@
-<h1 align="center"><b>Hi there, I'm Purrly!👋</b></h1>
+<h1 align="center"><b>Hi there, I'm Purrly!👋😻</b></h1>
 
 <p align="center">
 <b>Hey there! I'm Purrly, a 13-year-old web developer and avid cat lover. I have three cats, including my adorable baby kitten (who's my favorite, of course!). I first got hooked on coding at around 11 and haven’t stopped building since. In my free time, you'll find me gaming, coding, or OBVIOUSLY hanging out with my cats :D<b>
@@ -42,7 +42,7 @@
 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=purrlyy&layout=compact&theme=radical" alt="Purrly's Most Used Languages" width="355" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=purrlyy&layout=compact&theme=radical" alt="Purrly's Most Used Languages" width="358" />
   <img src="https://github-readme-stats.vercel.app/api?username=purrlyy&show_icons=true&theme=radical" alt="Purrly's GitHub Stats" width="400" />
 </div>
 
