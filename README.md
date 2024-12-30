@@ -41,6 +41,10 @@
 </div>
 
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=purrlyy&layout=compact&theme=radical" alt="Purrly's Most Used Languages" />
+</div>
+
 ---
 
 <h3 align="center">📚 Will Learn</h3>
@@ -86,3 +90,6 @@
     v
   </pre>
 </div>
+
+
+
