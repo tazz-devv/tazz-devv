@@ -54,7 +54,7 @@
 <h3 align="center">🖥️ Working on</h3>
 
 <p align="center">
-<b>Currently working on 3k0 - An unrestricted conversational AI exploring open dialogue and unfiltered interaction, designed for research and experimentation within ethical and legal bounds.</b>
+<b>Currently working on HoodliumGPT - An unrestricted conversational AI exploring open dialogue and unfiltered interaction, designed for research and experimentation within ethical and legal bounds.</b>
 </p>
 
 ---
