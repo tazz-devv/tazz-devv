@@ -19,8 +19,7 @@
 
 <h2 align="center">💻 Tech Stack</h2>
 
-<p align="center">HTML 95% | CSS 95% | JS 80% | Python 65%</p>
-
+<h3 align="left">‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎ ‎‎ ‎ ‎ ‎  ‎ ‎ ‎‎ 95%  ‎ ‎  ‎ ‎ ‎ ‎ ‎  95%  ‎ ‎ ‎ ‎ ‎ ‎ ‎‎   80%   ‎ ‎ ‎ ‎ ‎ ‎ 65%   ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ 25%</h3>
 
 
 <div align="center">
@@ -31,6 +30,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="JavaScript logo" />
   <img width="22" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="Python logo" />
+  <img width="22" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="50" alt="Tailwind CSS logo" />
   <img width="22" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" alt="Node.js logo" />
   <img width="22" />
