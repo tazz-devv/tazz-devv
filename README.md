@@ -20,29 +20,20 @@
 <h2 align="center">💻 Tech Stack</h2>
 
 <div align="center">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-    <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  </a>
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  </a>
-  <a href="https://code.visualstudio.com/" target="_blank">
-    <img src="https://img.shields.io/badge/VSCode-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode">
-  </a>
-  <a href="https://nodejs.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
-  </a>
-  <a href="https://replit.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Replit-%232D5B9E.svg?style=for-the-badge&logo=replit&logoColor=white" alt="Replit">
-  </a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="HTML5 logo" />
+  <img width="22" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="CSS3 logo" />
+  <img width="22" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="JavaScript logo" />
+  <img width="22" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="Python logo" />
+  <img width="22" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" alt="Node.js logo" />
+  <img width="22" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" alt="VS Code logo" />
+  <img width="22" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/replit/replit-original.svg" height="50" alt="Replit logo" />
 </div>
-
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=purrlyy&layout=compact&theme=radical" alt="Purrly's Most Used Languages" width="313" />
