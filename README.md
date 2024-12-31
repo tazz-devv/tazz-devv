@@ -43,6 +43,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=purrlyy&show_icons=true&theme=radical" alt="Purrly's GitHub Stats" width="350" />
 </div>
 
+<p align="center">
+<b>Keep in mind these arent updated! :(<b>
+</p>
 
 
 
