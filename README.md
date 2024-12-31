@@ -19,6 +19,10 @@
 
 <h2 align="center">💻 Tech Stack</h2>
 
+<p align="center">HTML 95% | CSS 95% | JS 80% | Python 65%</p>
+
+
+
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="HTML5 logo" />
   <img width="22" />
