@@ -17,9 +17,7 @@
 
 ---
 
-<h2 align="center">💻 Tech Stack</h2>
 
-<h2 align="center">‎ ‎95%  ‎ ‎  ‎ ‎ ‎95%  ‎ ‎ ‎ ‎‎‎ 80%   ‎ ‎ ‎ ‎‎65%   ‎ ‎ ‎ ‎ 25%   ‎ ‎ ‎ ‎ 50%   ‎ ‎ ‎ ‎ 70%   ‎  ‎ ‎ ‎ ‎‎‎70% ‎</h2>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="HTML5 logo" />
