@@ -55,7 +55,7 @@
 </p>
 
 <p align="center">
-  <b>• Learning C++ and other frameworks</b>
+  <b>• Learning C++ and typescript</b>
 </p>
 
 
