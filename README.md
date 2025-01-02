@@ -39,9 +39,10 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=purrlyy&layout=compact&theme=radical" alt="Purrly's Most Used Languages" width="313" />
-  <img src="https://github-readme-stats.vercel.app/api?username=purrlyy&show_icons=true&theme=radical" alt="Purrly's GitHub Stats" width="350" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=purrlyy&layout=compact&theme=radical&cachebuster=${Date.now()}" alt="Purrly's Most Used Languages" width="313" />
+  <img src="https://github-readme-stats.vercel.app/api?username=purrlyy&show_icons=true&theme=radical&cachebuster=${Date.now()}" alt="Purrly's GitHub Stats" width="350" />
 </div>
+
 
 <p align="center">
 <b>Keep in mind these arent updated! :(<b>
