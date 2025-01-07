@@ -9,7 +9,7 @@
 
 
 <p align="center">
-<b>Hey there! I'm Purrly, a 13-year-old web developer and avid cat lover. I have three cats, including my adorable baby kitten (who's my favorite, of course!). I first got hooked on coding at around 11 and haven’t stopped building since. In my free time, you'll find me gaming, coding, or OBVIOUSLY hanging out with my cats :D<b>
+<b>Hey there! I'm Purrly, a 13-year-old web developer and avid cat lover. I have four cats, including my adorable baby kitten (who's my favorite, of course!). I first got hooked on coding at around 11 and haven’t stopped building since. In my free time, you'll find me gaming, coding, or OBVIOUSLY hanging out with my cats :D<b>
 </p>
 <p align="center">
   <b>- Currently building awesome stuff for $0 (hire me though👀)</b>
@@ -54,7 +54,7 @@
 <h3 align="center">📞 Contact & Socials (for the huzz)</h3>
 
 <div align="center">
-  <a href="https://discord.com/users/Sxgei" target="_blank">
+  <a href="https://discord.com/users/impurrly" target="_blank">
     <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
   </a>
   <a href="https://github.com/purrlyy" target="_blank">
