@@ -39,8 +39,8 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=purrlyy&layout=compact&theme=radical&cachebuster=${Date.now()}" alt="Purrly's Most Used Languages" width="313" />
-  <img src="https://github-readme-stats.vercel.app/api?username=purrlyy&show_icons=true&theme=radical&cachebuster=${Date.now()}" alt="Purrly's GitHub Stats" width="350" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tazz-devv&layout=compact&theme=radical&cachebuster=${Date.now()}" alt="Purrly's Most Used Languages" width="313" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tazz-devv&show_icons=true&theme=radical&cachebuster=${Date.now()}" alt="Purrly's GitHub Stats" width="350" />
 </div>
 
 
