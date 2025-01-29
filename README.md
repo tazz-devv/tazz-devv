@@ -53,20 +53,11 @@
 
 <h3 align="center">📞 Contact & Socials (for the huzz)</h3>
 
-<div align="center">
-  <a href="https://discord.com/users/taz_dev" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+<p align="center">
+  <a href="https://discord.com/users/1004632687769829456">
+    <img src="https://lanyard.cnrad.dev/api/1004632687769829456?showDisplayName=false&theme=dark" alt="Discord Presence">
   </a>
-  <a href="https://github.com/tazz-devv" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-  <a href="mailto:Tazz-devv@proton.me" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-</div>
-
-
----
+</p>
 
 <p align="center">
 <b>Made with ❤ by taz :D<b>
