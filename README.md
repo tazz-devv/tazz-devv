@@ -51,7 +51,9 @@
 
 ---
 
-<h3 align="center">📞 Contact & Socials (for the huzz)</h3>
+<h3 align="center">📞 Contact </h3>
+
+<h4 align="center">The best way to contact me is through Discord</h4>
 
 <p align="center">
   <a href="https://discord.com/users/1004632687769829456">
@@ -60,5 +62,5 @@
 </p>
 
 <p align="center">
-<b>Made with ❤ by taz :D<b>
+  <b>Made with ❤ by taz :D</b>
 </p>
