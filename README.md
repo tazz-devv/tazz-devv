@@ -45,9 +45,7 @@
 </div>
 
 
-<p align="center">
-<b>Keep in mind these arent updated! :(<b>
-</p>
+
 
 
 ---
@@ -60,6 +58,13 @@
   <a href="https://discord.com/users/1004632687769829456">
     <img src="https://lanyard.cnrad.dev/api/1004632687769829456?showDisplayName=false&theme=dark" alt="Discord Presence" height="300">
   </a>
+</p>
+
+<h4 align="center">🌐 More About Me</h4>
+
+<p align="center">
+  Check out my website for more info:  
+  <a href="https://taz.pages.dev"><b>taz.pages.dev</b></a>
 </p>
 
 <p align="center">
