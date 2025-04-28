@@ -64,7 +64,7 @@
 
 <p align="center">
   Check out my website for more info:  
-  <a href="https://taz.pages.dev"><b>taz.pages.dev</b></a>
+  <a href="https://hellotaz.pages.dev"><b>taz.pages.dev</b></a>
 </p>
 
 <p align="center">
