@@ -9,7 +9,7 @@
 
 
 <p align="center">
-<b>Hey there! I'm Taz, a 13-year-old web developer and avid cat lover. I have four cats, including my adorable baby kitten (who's my favorite, of course!). I first got hooked on coding at around 11 and haven’t stopped building since. In my free time, you'll find me gaming, coding, or OBVIOUSLY hanging out with my cats :D<b>
+<b>Hey there! I'm Taz, a 14-year-old web developer and avid cat lover. I have four cats, including my adorable baby kitten (who's my favorite, of course!). I first got hooked on coding at around 11 and haven’t stopped building since. In my free time, you'll find me gaming, coding, or OBVIOUSLY hanging out with my cats :D<b>
 </p>
 <p align="center">
   <b>- Currently building awesome stuff for $0 (hire me though👀)</b>
