@@ -19,28 +19,14 @@
 
 ---
 
-<h2 align="center">❤️ I LOVE these
+<h2 align="center">❤️ I LOVE these</h2>
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="HTML5 logo" />
-  <img width="22" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="CSS3 logo" />
-  <img width="22" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="JavaScript logo" />
-  <img width="22" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="Python logo" />
-  <img width="22" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" alt="TypeScript logo" />
-  <img width="22" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="React logo" />
-  <img width="22" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" alt="Node.js logo" />
-  <img width="22" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" alt="VS Code logo" />
-  <img width="22" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,typescript,python,react,nodejs,vscode,discordjs,nextjs,tailwindcss&theme=dark" alt="Tech stack icons" />
+</div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tazz-devv&layout=compact&theme=radical&cachebuster=${Date.now()}" alt="Purrly's Most Used Languages" width="313" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tazz-devv&layout=compact&theme=radical&cachebuster=${Date.now()}" alt="Most Used Languages" width="313" />
   <img src="https://github-readme-stats.vercel.app/api?username=tazz-devv&show_icons=true&theme=radical&cachebuster=${Date.now()}" alt="Purrly's GitHub Stats" width="350" />
 </div>
 
