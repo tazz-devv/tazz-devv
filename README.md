@@ -22,7 +22,7 @@
 <h2 align="center">❤️ I LOVE these</h2>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,typescript,python,react,nodejs,vscode,discordjs,nextjs,tailwindcss&theme=dark" alt="Tech stack icons" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,typescript,python,react,nodejs,vscode,discordjs,nextjs,tailwindcss,lua&theme=dark" alt="Tech stack icons" />
 </div>
 
 <div align="center">
