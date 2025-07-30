@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="/Assets/DC_BANNER.png" alt="DC Banner" style="width: 100%; max-width: 1200px; height: 200px; object-fit: cover;">
+  <img src="/Assets/DC_BANNER.png" alt="DC Banner" style="width: 100%; max-width: 1200px; height: 250px; object-fit: cover;">
 </h1>
 
 
