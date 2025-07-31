@@ -1,8 +1,8 @@
 <h1 align="center">
-  <img src="/Assets/DC_BANNER.png" alt="DC Banner" style="width: 100%; max-width: 1200px; height: 270px; object-fit: cover;">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=HELLO,+THERE!👋;THIS+IS+SLUMIN+:D...;NICE+TO+MEET+YOU!;YOU'RE+AWESOME;WELCOME+TO+MY+DIGITAL+REALM;READ+MORE+ABOUT+ME+BELOW;OKAY,+GO+AWAY+NOW!;I+SAID+LEAVE;IM+WARNING+YOU;YOU+ASKED+FOR+IT...;Never+gonna+give+you+up...;Never+gonna+let+you+down...;Never+gonna+run+around+and+desert+you...;Never+gonna+make+you+cry...;Never+gonna+say+goodbye...;Never+gonna+tell+a+lie+and+hurt+you!;WOW+YOU+REALLY+STAYED+THROUGH+THAT;YOURE+A+FUCKING+LOSER;YOU+REALIZE+YOU'RE+WASTING+TIME;&center=true&size=30&color=FF69B4&width=800">
+  </a>
 </h1>
-
-
 
 
 
